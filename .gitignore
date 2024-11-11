@@ -41,8 +41,8 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-/assets
-/pubspec.yaml
-/pubspec.lock
-/analysis_options.yaml
-/.gitignore
+assets
+pubspec.yaml
+pubspec.lock
+analysis_options.yaml
+.gitignore
