@@ -14,3 +14,16 @@ I’m developing a custom app to enhance the coffee shop experience, blending de
 -  SupaBase
 -  Flutter
 
+### ☕ Bike App
+This is an app I built with one of my friend for some ui challenging like the 3D animation
+
+<p align="center">
+<img src="assets/bike/img1.png", width="200"/>
+<img src="assets/bike/img2.png", width="200"/>
+<img src="assets/bike/img3.png", width="200"/>
+<img src="assets/bike/img4.png", width="200"/>
+</p>
+
+**Tech Stack**
+-  SupaBase
+-  Flutter
