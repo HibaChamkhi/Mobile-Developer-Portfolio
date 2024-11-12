@@ -29,7 +29,7 @@ This is an app I built with one of my friend for some ui challenging like the 3D
 -  Flutter
 
 ### ☕ Adopt Animal App
-In this app i was trying to use  different way of state management like cubit or getX ...
+In this app i was trying to use different way of state management (cubit or block , getX... )
 
 <p align="center">
 <img src="assets/adopt_animal/img1.png", width="200"/>
@@ -38,5 +38,5 @@ In this app i was trying to use  different way of state management like cubit or
 </p>
 
 **Tech Stack**
--  SupaBase
+-  Firebase
 -  Flutter
