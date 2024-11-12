@@ -27,3 +27,16 @@ This is an app I built with one of my friend for some ui challenging like the 3D
 **Tech Stack**
 -  SupaBase
 -  Flutter
+
+### ☕ Adopt Animal App
+In this app i was trying to use  different way of state management like cubit or getX ...
+
+<p align="center">
+<img src="assets/adopt_animal/img1.png", width="200"/>
+<img src="assets/adopt_animal/img2.png", width="200"/>
+<img src="assets/adopt_animal/img3.png", width="200"/>
+</p>
+
+**Tech Stack**
+-  SupaBase
+-  Flutter
